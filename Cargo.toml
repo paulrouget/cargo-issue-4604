@@ -8,5 +8,3 @@ name = "bug"
 
 [dependencies]
 libservo = { git = "https://github.com/servo/servo", rev = "2a179cec2b" }
-libc = "0.2.23"
-log = "0.3.8"
